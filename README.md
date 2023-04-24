@@ -10,3 +10,6 @@ In this dashboard, I reviewed the streaming trends for the online music streamin
 
 **Revenue Analysis**
 In this dashboard, the product details and sales transactions were provided.
+
+**PA 2022 Annual Sales Report**
+Here's a summary of the insights for 2022 sales at PA Distributor. The datasets provided were weekly sales and transaction details. Monthly sales for the current and previous years were compared, and market shares of sales per category, channel, region, and product information were demonstrated to breakdown sales transactions for the year.
