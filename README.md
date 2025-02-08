@@ -1,5 +1,13 @@
 # powerBI-project
 
+**Financial Statement Analysis Dashboard**
+Project Status: Ongoing
+This reporting and data visualization project provides an interactive analysis of financial statements, including the Income Statement, Balance Sheet, Cash Flow Statement, Changes in Equity, and Financial Ratios. The dashboard enables drill-down analysis, making it easy to explore key financial metrics and trends. Its user-friendly design enhances financial insights and decision-making.
+
+Credits: Initial dataset sourced from this repository https://github.com/priyanka200201/FinancialReportingAndAnalysis/tree/main
+
+---
+
 **Space Challenge**
 My first dashboard project last August 2022 when I joined the Maven Space Challenge.
 We were given a dataset containing all the space explorations starting from 1957 up to 2020.
@@ -19,3 +27,4 @@ In this dashboard, the revenues from 2017 to 2019 were explored. The current yea
 
 **PA 2022 Annual Sales Report**
 Here's a summary of the insights for 2022 sales at PA Distributor. The datasets provided were weekly sales and transaction details. Monthly sales for the current and previous years were compared, and market shares of sales per category, channel, region, and product information were demonstrated to breakdown sales transactions for the year.
+
