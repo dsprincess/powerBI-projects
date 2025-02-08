@@ -1,0 +1,5 @@
+Financial Statement Analysis Dashboard
+This reporting and data visualization project provides an interactive analysis of financial statements, including the Income Statement, Balance Sheet, Cash Flow Statement, Changes in Equity, and Financial Ratios. The dashboard enables drill-down analysis, making it easy to explore key financial metrics and trends. Its user-friendly design enhances financial insights and decision-making.
+
+Project Status: Ongoing
+Credits: Initial dataset sourced from this repository.
